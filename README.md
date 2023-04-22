@@ -1,2 +1,2 @@
 # Projeto-Estatistica
-Projeto da cadeira de estatística
+O projeto consiste no treinamento de algoritmos de aprendizagem de máquina para compará-los e ver qual é o melhor para a previsão de pessoas com doenças cardíacas. Utilizou-se os algoritmos KNN, random forest, regressão logística, árvore de decisão, xgboost e naive bayes.
